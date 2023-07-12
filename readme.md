@@ -17,3 +17,10 @@
 
 5. propts Module - Waiting For Input (NOT USED IN NOTES APP)
    -> Other Useful Packages (inquirer)
+
+<-- WEATHERS APP -->
+
+1. Making API CALL
+   -> request module
+   -> https module
+   -> axios module
