@@ -1,6 +1,10 @@
 <-- NOTES APP -->
 
 1. fs Module - File System
+   -> writeFileSync
+   -> appendFileSync
+   -> readFileSync
+
 2. chalk Module - Styling The Output in Terminal/Console
    -> Other Useful Packages (figlet, cli-progress)
 
@@ -24,3 +28,17 @@
    -> request module
    -> https module
    -> axios module
+
+<-- WEB SERVER -->
+
+1. express Module - Create Server
+2. fs Module - File System
+   -> __dirname - provide absolute path without file name (/home/lokesh/Projects/Projects/Node Js/web-server)
+   -> __filename - provide absolute path with file name (/home/lokesh/Projects/Projects/Node Js/web-server/app.js)
+3. path Module - Manipulating the path
+   -> join()
+4. Serve HTML Files (NOT USED IN WEB SERVER)
+   -> use ejs (Embedded JavaScript templates) module for html files
+5. detect changes - nodemon
+   -> npm install nodemon --save-dev (FOR DEV DEPENDENCY)
+
