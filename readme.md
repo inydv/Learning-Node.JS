@@ -29,7 +29,7 @@
    -> https module
    -> axios module
 
-<-- WEB SERVER -->
+<-- EXPRESS WEB SERVER -->
 
 1. express Module - Create Server
 2. fs Module - File System
@@ -42,3 +42,6 @@
 5. detect changes - nodemon
    -> npm install nodemon --save-dev (FOR DEV DEPENDENCY)
 
+<-- NODE WEB SERVER -->
+
+1. create webserver with http module
