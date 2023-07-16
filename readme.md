@@ -17,12 +17,8 @@
 4. yargs Module - Create Commands
    -> Other Useful Packages (commander.js)
 
-5. propts Module - Waiting For Input (NOT USED IN NOTES APP)
-   -> Other Useful Packages (inquirer)
-   -> process.stdout, process.stderr, process.stdin
-
-6. detect changes - nodemon (NOT USED IN NOTES APP)
-   -> npm install nodemon --save-dev (FOR DEV DEPENDENCY)
+5. detect changes - nodemon (NOT USED IN NOTES APP)
+   -> npm install nodemon --save-dev/-D (FOR DEV DEPENDENCY)
 
 <-- NODE WEB SERVER -->
 
@@ -32,3 +28,18 @@
    -> __filename - provide absolute path with file name (/home/lokesh/Projects/Projects/Node Js/web-server/app.js)
 3. path Module - Manipulating the path
    -> join()
+
+<-- NODE BASIC -->
+
+1. readline Module - Waiting For Input
+   -> Other Useful Packages (inquirer, propts)
+   -> process.stdout, process.stderr, process.stdin
+
+2. FileSystem
+3. Custom Events
+4. Streams Basic
+
+<-- NODE ADVANCE -->
+
+1. Cluster
+2. Streams
